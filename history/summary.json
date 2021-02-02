@@ -1,20 +1,20 @@
 [
   {
-    "name": "Google",
+    "name": "Hoogle",
     "url": "https://www.google.com",
     "icon": "https://favicons.githubusercontent.com/www.google.com",
-    "slug": "google",
+    "slug": "hoogle",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 55,
-    "timeDay": 55,
-    "timeWeek": 55,
-    "timeMonth": 55,
-    "timeYear": 55,
+    "time": 81,
+    "timeDay": 81,
+    "timeWeek": 81,
+    "timeMonth": 81,
+    "timeYear": 81,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 17,
-    "timeDay": 17,
-    "timeWeek": 17,
-    "timeMonth": 17,
-    "timeYear": 17,
+    "time": 158,
+    "timeDay": 158,
+    "timeWeek": 158,
+    "timeMonth": 158,
+    "timeYear": 158,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 382,
-    "timeDay": 382,
-    "timeWeek": 382,
-    "timeMonth": 382,
-    "timeYear": 382,
+    "time": 327,
+    "timeDay": 327,
+    "timeWeek": 327,
+    "timeMonth": 327,
+    "timeYear": 327,
     "dailyMinutesDown": {}
   },
   {
@@ -82,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 9,
-    "timeDay": 9,
-    "timeWeek": 9,
-    "timeMonth": 9,
-    "timeYear": 9,
+    "time": 19,
+    "timeDay": 19,
+    "timeWeek": 19,
+    "timeMonth": 19,
+    "timeYear": 19,
     "dailyMinutesDown": {}
   },
   {
@@ -95,18 +95,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.24%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-02": 0
+      "2021-02-02": 25
     }
   }
 ]
