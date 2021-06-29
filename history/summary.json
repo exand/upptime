@@ -42,9 +42,9 @@
     "url": "$SECRET_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "my-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -53,7 +53,9 @@
     "timeWeek": 617,
     "timeMonth": 695,
     "timeYear": 504,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-29": 0
+    }
   },
   {
     "name": "Portfolio",
@@ -79,11 +81,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "styleguide",
     "status": "up",
-    "uptime": "97.51%",
+    "uptime": "97.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "91.92%",
-    "uptimeYear": "97.51%",
+    "uptimeYear": "97.52%",
     "time": 958,
     "timeDay": 789,
     "timeWeek": 898,
