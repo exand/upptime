@@ -46,7 +46,7 @@
     "uptime": "90.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "49.22%",
+    "uptimeMonth": "49.19%",
     "uptimeYear": "90.48%",
     "time": 504,
     "timeDay": 0,
@@ -54,6 +54,7 @@
     "timeMonth": 701,
     "timeYear": 504,
     "dailyMinutesDown": {
+      "2021-07-15": 14,
       "2021-07-14": 1440,
       "2021-07-13": 1440,
       "2021-07-12": 1440,
@@ -79,9 +80,9 @@
     "slug": "portfolio",
     "status": "up",
     "uptime": "97.71%",
-    "uptimeDay": "43.71%",
-    "uptimeWeek": "48.18%",
-    "uptimeMonth": "87.80%",
+    "uptimeDay": "44.49%",
+    "uptimeWeek": "48.29%",
+    "uptimeMonth": "87.79%",
     "uptimeYear": "97.71%",
     "time": 883,
     "timeDay": 813,
@@ -89,14 +90,14 @@
     "timeMonth": 838,
     "timeYear": 883,
     "dailyMinutesDown": {
-      "2021-07-14": 810,
+      "2021-07-14": 799,
       "2021-07-13": 613,
       "2021-07-12": 769,
       "2021-07-11": 835,
       "2021-07-10": 639,
       "2021-07-09": 906,
       "2021-07-08": 649,
-      "2021-07-07": 120
+      "2021-07-07": 136
     }
   },
   {
