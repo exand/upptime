@@ -46,7 +46,7 @@
     "uptime": "85.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "18.74%",
+    "uptimeMonth": "18.69%",
     "uptimeYear": "85.59%",
     "time": 504,
     "timeDay": 0,
@@ -54,7 +54,7 @@
     "timeMonth": 390,
     "timeYear": 504,
     "dailyMinutesDown": {
-      "2021-07-24": 390,
+      "2021-07-24": 413,
       "2021-07-23": 1440,
       "2021-07-22": 1440,
       "2021-07-21": 1440,
@@ -87,17 +87,17 @@
     "url": "$SECRET_P_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "portfolio",
-    "status": "up",
-    "uptime": "97.34%",
-    "uptimeDay": "39.71%",
-    "uptimeWeek": "44.66%",
-    "uptimeMonth": "85.01%",
-    "uptimeYear": "97.34%",
-    "time": 874,
-    "timeDay": 826,
+    "status": "down",
+    "uptime": "97.37%",
+    "uptimeDay": "41.30%",
+    "uptimeWeek": "44.67%",
+    "uptimeMonth": "85.16%",
+    "uptimeYear": "97.37%",
+    "time": 873,
+    "timeDay": 820,
     "timeWeek": 850,
     "timeMonth": 844,
-    "timeYear": 874,
+    "timeYear": 873,
     "dailyMinutesDown": {
       "2021-07-24": 251,
       "2021-07-23": 747,
@@ -107,7 +107,7 @@
       "2021-07-19": 876,
       "2021-07-18": 1128,
       "2021-07-17": 1036,
-      "2021-07-16": 666
+      "2021-07-16": 600
     }
   },
   {
