@@ -54,7 +54,8 @@
     "timeMonth": 0,
     "timeYear": 504,
     "dailyMinutesDown": {
-      "2021-08-01": 1435,
+      "2021-08-02": 17,
+      "2021-08-01": 1440,
       "2021-07-31": 1440,
       "2021-07-30": 1440,
       "2021-07-29": 1440,
@@ -97,7 +98,7 @@
     "slug": "portfolio",
     "status": "up",
     "uptime": "98.28%",
-    "uptimeDay": "53.38%",
+    "uptimeDay": "54.89%",
     "uptimeWeek": "55.78%",
     "uptimeMonth": "89.82%",
     "uptimeYear": "98.28%",
