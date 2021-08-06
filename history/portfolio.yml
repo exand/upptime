@@ -1,7 +1,7 @@
 url: $SECRET_P_SITE
-status: down
-code: 404
-responseTime: 877
-lastUpdated: 2021-08-06T19:21:10.803Z
+status: up
+code: 200
+responseTime: 949
+lastUpdated: 2021-08-06T19:32:37.557Z
 startTime: Tue Feb 02 2021 16:22:05 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
