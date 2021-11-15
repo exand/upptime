@@ -42,16 +42,16 @@
     "url": "$SECRET_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "my-site",
-    "status": "up",
-    "uptime": "99.31%",
-    "uptimeDay": "80.50%",
+    "status": "down",
+    "uptime": "99.32%",
+    "uptimeDay": "81.22%",
     "uptimeWeek": "81.90%",
-    "uptimeMonth": "93.51%",
-    "uptimeYear": "99.31%",
+    "uptimeMonth": "93.64%",
+    "uptimeYear": "99.32%",
     "time": 675,
     "timeDay": 676,
     "timeWeek": 660,
-    "timeMonth": 671,
+    "timeMonth": 672,
     "timeYear": 675,
     "dailyMinutesDown": {
       "2021-11-15": 190,
@@ -64,7 +64,7 @@
       "2021-11-08": 298,
       "2021-11-07": 327,
       "2021-11-06": 219,
-      "2021-11-05": 228
+      "2021-11-05": 170
     }
   },
   {
@@ -112,7 +112,7 @@
     "timeMonth": 925,
     "timeYear": 947,
     "dailyMinutesDown": {
-      "2021-11-15": 1130,
+      "2021-11-15": 1142,
       "2021-11-14": 1440,
       "2021-11-13": 1440,
       "2021-11-12": 1440,
