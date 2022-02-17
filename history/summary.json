@@ -71,15 +71,15 @@
     "url": "$SECRET_P_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "portfolio",
-    "status": "up",
-    "uptime": "99.24%",
-    "uptimeDay": "79.51%",
+    "status": "down",
+    "uptime": "99.25%",
+    "uptimeDay": "79.49%",
     "uptimeWeek": "97.07%",
     "uptimeMonth": "99.27%",
-    "uptimeYear": "99.21%",
+    "uptimeYear": "99.22%",
     "time": 821,
     "timeDay": 970,
-    "timeWeek": 706,
+    "timeWeek": 722,
     "timeMonth": 611,
     "timeYear": 818,
     "dailyMinutesDown": {
@@ -94,7 +94,7 @@
       "2021-08-08": 512,
       "2021-08-07": 606,
       "2021-08-06": 513,
-      "2021-08-05": 100
+      "2021-08-05": 51
     }
   },
   {
@@ -103,7 +103,7 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "styleguide",
     "status": "down",
-    "uptime": "52.65%",
+    "uptime": "52.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -114,7 +114,7 @@
     "timeMonth": 1269,
     "timeYear": 971,
     "dailyMinutesDown": {
-      "2022-02-17": 316,
+      "2022-02-17": 340,
       "2022-02-16": 1440,
       "2022-02-15": 1440,
       "2022-02-14": 1440,
