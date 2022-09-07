@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 93,
-    "timeDay": 51,
-    "timeWeek": 79,
-    "timeMonth": 87,
+    "timeDay": 87,
+    "timeWeek": 74,
+    "timeMonth": 85,
     "timeYear": 91,
     "dailyMinutesDown": {}
   },
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 106,
-    "timeDay": 39,
-    "timeWeek": 103,
-    "timeMonth": 104,
-    "timeYear": 105,
+    "timeDay": 260,
+    "timeWeek": 134,
+    "timeMonth": 108,
+    "timeYear": 106,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.78%",
-    "time": 692,
-    "timeDay": 428,
-    "timeWeek": 595,
-    "timeMonth": 668,
-    "timeYear": 688,
+    "time": 688,
+    "timeDay": 985,
+    "timeWeek": 653,
+    "timeMonth": 675,
+    "timeYear": 685,
     "dailyMinutesDown": {
       "2022-04-29": 953,
       "2022-04-28": 1211,
@@ -78,9 +78,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.48%",
     "time": 679,
-    "timeDay": 535,
-    "timeWeek": 682,
-    "timeMonth": 681,
+    "timeDay": 774,
+    "timeWeek": 723,
+    "timeMonth": 686,
     "timeYear": 619,
     "dailyMinutesDown": {
       "2022-05-11": 24,
@@ -101,7 +101,7 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "styleguide",
     "status": "down",
-    "uptime": "34.43%",
+    "uptime": "34.37%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -110,9 +110,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1022,
+    "timeYear": 1023,
     "dailyMinutesDown": {
-      "2022-09-06": 43,
+      "2022-09-07": 42,
+      "2022-09-06": 1440,
       "2022-09-05": 1440,
       "2022-09-04": 1440,
       "2022-09-03": 1440,
@@ -475,8 +476,7 @@
       "2021-09-11": 1440,
       "2021-09-10": 1440,
       "2021-09-09": 1440,
-      "2021-09-08": 1440,
-      "2021-09-07": 1440
+      "2021-09-08": 1440
     }
   }
 ]
