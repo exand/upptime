@@ -7,7 +7,7 @@ sites:
   - name: Google
     url: https://www.google.com
   - name: Wikipedia
-    url: https://yandexп.ru
+    url: https://yandex.ru
   # - name: Hacker News
     # url: https://news.ycombinator.com
   - name: Github Portfolio
