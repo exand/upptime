@@ -6,8 +6,8 @@ repo: upptime # Your GitHub repository name
 sites:
   - name: Google
     url: https://www.google.com
-  # - name: Wikipedia
-    # url: https://en.wikipedia.org
+  - name: Wikipedia
+    url: https://en.gegegejem111875.ru
   # - name: Hacker News
     # url: https://news.ycombinator.com
   - name: Github Portfolio
