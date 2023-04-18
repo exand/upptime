@@ -337,18 +337,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "server-willson",
     "status": "up",
-    "uptime": "14.89%",
-    "uptimeDay": "14.89%",
-    "uptimeWeek": "14.89%",
-    "uptimeMonth": "14.89%",
-    "uptimeYear": "14.89%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 164,
     "timeDay": 164,
     "timeWeek": 164,
     "timeMonth": 164,
     "timeYear": 164,
-    "dailyMinutesDown": {
-      "2023-04-18": 2
-    }
+    "dailyMinutesDown": {}
   }
 ]
