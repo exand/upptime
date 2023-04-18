@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/xn--yandex-8qf.ru.ico",
     "slug": "wikipedia",
     "status": "down",
-    "uptime": "19.43%",
-    "uptimeDay": "19.43%",
-    "uptimeWeek": "19.43%",
-    "uptimeMonth": "19.43%",
-    "uptimeYear": "19.43%",
+    "uptime": "19.35%",
+    "uptimeDay": "19.35%",
+    "uptimeWeek": "19.35%",
+    "uptimeMonth": "19.35%",
+    "uptimeYear": "19.35%",
     "time": 968,
     "timeDay": 1777,
     "timeWeek": 1777,
     "timeMonth": 1777,
     "timeYear": 1777,
     "dailyMinutesDown": {
-      "2023-04-18": 71
+      "2023-04-18": 72
     }
   },
   {
