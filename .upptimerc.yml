@@ -6,8 +6,8 @@ repo: upptime # Your GitHub repository name
 sites:
   - name: Google
     url: https://www.google.com
-  - name: Wikipedia
-    url: https://yandex.ru
+  # - name: Wikipedia
+    # url: https://yandex.ru
   # - name: Hacker News
     # url: https://news.ycombinator.com
   - name: Github Portfolio
@@ -21,6 +21,14 @@ sites:
     url: $SECRET_P_SITE
   - name: Styleguide
     url: $SECRET_STD_SITE
+  - name: Server Kanye
+    check: "tcp-ping"
+    url: $SECRET_KANYE
+    port: 21
+  - name: Server Willson
+    check: "tcp-ping"
+    url: $SECRET_WILLSON
+    port: 21
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
