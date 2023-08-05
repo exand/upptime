@@ -6,17 +6,17 @@
     "slug": "google",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.22%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 98,
+    "time": 99,
     "timeDay": 194,
     "timeWeek": 166,
     "timeMonth": 140,
     "timeYear": 104,
     "dailyMinutesDown": {
-      "2023-08-05": 0
+      "2023-08-05": 11
     }
   },
   {
