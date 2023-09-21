@@ -92,11 +92,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "styleguide",
     "status": "up",
-    "uptime": "54.59%",
+    "uptime": "54.60%",
     "uptimeDay": "96.08%",
     "uptimeWeek": "99.29%",
     "uptimeMonth": "99.84%",
-    "uptimeYear": "88.90%",
+    "uptimeYear": "88.97%",
     "time": 826,
     "timeDay": 673,
     "timeWeek": 755,
@@ -183,9 +183,9 @@
     "url": "$SECRET_WILLSON",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "server-willson",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -194,6 +194,8 @@
     "timeWeek": 106,
     "timeMonth": 112,
     "timeYear": 114,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-21": 0
+    }
   }
 ]
