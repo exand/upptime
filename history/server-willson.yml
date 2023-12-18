@@ -1,7 +1,7 @@
 url: $SECRET_WILLSON
-status: up
-code: 200
-responseTime: 89
-lastUpdated: 2023-12-18T17:49:38.188Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2023-12-18T18:07:34.493Z
 startTime: 2023-04-18T19:31:51.000Z
 generator: Upptime <https://github.com/upptime/upptime>
