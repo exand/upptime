@@ -31,7 +31,7 @@ sites:
     check: "tcp-ping"
     url: $SECRET_DALLAS
     port: 80
-  - name: Server Dallas
+  - name: Cloud
     check: "tcp-ping"
     url: $SECRET_CLOUD
     port: 443
