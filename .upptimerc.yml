@@ -25,9 +25,15 @@ sites:
     check: "tcp-ping"
     url: $SECRET_KANYE
     port: 21
-  - name: Server Willson
+  - name: Server Ghost
+    url: $SECRET_GHOST
+  - name: Server Dallas
     check: "tcp-ping"
-    url: $SECRET_WILLSON
+    url: $SECRET_DALLAS
+    port: 80
+  - name: Server Dallas
+    check: "tcp-ping"
+    url: $SECRET_CLOUD
     port: 443
 
 status-website:
