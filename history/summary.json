@@ -194,9 +194,9 @@
     "url": "$SECRET_CLOUD",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "97.44%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.50%",
     "uptimeYear": "97.30%",
@@ -224,7 +224,8 @@
       "2026-04-25": 36,
       "2026-04-26": 56,
       "2026-04-28": 58,
-      "2026-04-29": 71
+      "2026-04-29": 71,
+      "2026-05-25": 0
     }
   }
 ]
