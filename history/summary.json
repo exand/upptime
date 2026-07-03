@@ -168,16 +168,16 @@
     "url": "$SECRET_DALLAS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "server-dallas",
-    "status": "down",
-    "uptime": "98.24%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "97.96%",
+    "status": "up",
+    "uptime": "98.22%",
+    "uptimeDay": "88.86%",
+    "uptimeWeek": "98.41%",
+    "uptimeMonth": "99.63%",
+    "uptimeYear": "97.93%",
     "time": 156,
-    "timeDay": 177,
-    "timeWeek": 167,
-    "timeMonth": 156,
+    "timeDay": 163,
+    "timeWeek": 165,
+    "timeMonth": 155,
     "timeYear": 157,
     "dailyMinutesDown": {
       "2025-08-11": 1018,
@@ -190,7 +190,7 @@
       "2026-03-15": 1440,
       "2026-03-14": 1440,
       "2026-03-13": 485,
-      "2026-07-03": 5
+      "2026-07-03": 160
     }
   },
   {
@@ -198,16 +198,16 @@
     "url": "$SECRET_CLOUD",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cloud",
-    "status": "down",
-    "uptime": "97.65%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "97.27%",
+    "status": "up",
+    "uptime": "97.62%",
+    "uptimeDay": "89.20%",
+    "uptimeWeek": "98.46%",
+    "uptimeMonth": "99.51%",
+    "uptimeYear": "97.24%",
     "time": 1182,
-    "timeDay": 1802,
-    "timeWeek": 1579,
-    "timeMonth": 1460,
+    "timeDay": 1590,
+    "timeWeek": 1554,
+    "timeMonth": 1457,
     "timeYear": 1182,
     "dailyMinutesDown": {
       "2025-08-13": 1177,
@@ -231,7 +231,7 @@
       "2026-04-29": 71,
       "2026-05-25": 98,
       "2026-06-06": 60,
-      "2026-07-03": 0
+      "2026-07-03": 156
     }
   }
 ]
