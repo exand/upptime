@@ -196,17 +196,17 @@
     "url": "$SECRET_CLOUD",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cloud",
-    "status": "down",
-    "uptime": "97.74%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.64%",
-    "uptimeYear": "97.24%",
-    "time": 1201,
-    "timeDay": 1809,
-    "timeWeek": 1609,
-    "timeMonth": 1565,
-    "timeYear": 1206,
+    "status": "up",
+    "uptime": "97.71%",
+    "uptimeDay": "85.93%",
+    "uptimeWeek": "97.99%",
+    "uptimeMonth": "99.18%",
+    "uptimeYear": "97.20%",
+    "time": 1202,
+    "timeDay": 1835,
+    "timeWeek": 1641,
+    "timeMonth": 1574,
+    "timeYear": 1208,
     "dailyMinutesDown": {
       "2025-08-13": 1177,
       "2025-08-12": 1440,
@@ -230,7 +230,7 @@
       "2026-05-25": 98,
       "2026-06-06": 60,
       "2026-07-03": 156,
-      "2026-07-24": 1
+      "2026-07-24": 203
     }
   }
 ]
