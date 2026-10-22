@@ -1,7 +1,7 @@
 url: $SECRET_CLOUD
-status: up
-code: 200
-responseTime: 1709
-lastUpdated: 2026-10-22T01:07:26.137Z
+status: down
+code: 500
+responseTime: 486
+lastUpdated: 2026-10-22T22:00:45.942Z
 startTime: 2025-05-04T22:59:49.859Z
 generator: Upptime <https://github.com/upptime/upptime>
